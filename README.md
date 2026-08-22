@@ -16,3 +16,5 @@
 - GET /products/specification/tagAndVariantPriceBetween?tagName=electronics&minPrice=100&maxPrice=500: Search for products by combining attributes such as tag names with variant pricing within given limits:
 
 And more...
+
+<!-- sync-marker-1 -->
